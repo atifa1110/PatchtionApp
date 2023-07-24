@@ -1,7 +1,7 @@
-# Patction App
+# Patchtion App
 
 ### Overview :
-Patction App adalah Aplikasi klasifikasi nilam menggunakan algoritma extreme learning machine yang disimpan dalam API dan memproses foto yang sudah ada
+Patchtion App adalah Aplikasi klasifikasi nilam menggunakan algoritma extreme learning machine yang disimpan dalam API dan memproses foto yang sudah ada
 
 ### Features :
 1. Mengupload foto yang sudah ada
@@ -26,3 +26,11 @@ Patction App adalah Aplikasi klasifikasi nilam menggunakan algoritma extreme lea
   </tr>
    
 </table><br><br>
+
+### Tools and Tech stack used : 
+1. Java
+2. XML
+3. Room database 
+6. OkHttpClient 
+7. JSON
+8. Shared Preference
