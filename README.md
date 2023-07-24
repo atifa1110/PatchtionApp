@@ -1,4 +1,4 @@
-![image](https://github.com/atifa1110/PKLProjectPKL/assets/49097275/1e639d41-3a34-4ba4-b626-570dbe00c327)# Patchion App
+# Patction App
 
 ### Overview :
 Patction App adalah Aplikasi klasifikasi nilam menggunakan algoritma extreme learning machine yang disimpan dalam API dan memproses foto yang sudah ada
