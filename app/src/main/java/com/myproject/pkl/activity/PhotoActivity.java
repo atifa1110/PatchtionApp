@@ -78,7 +78,6 @@ public class PhotoActivity extends AppCompatActivity implements View.OnClickList
         camera.addCameraListener(new CameraListener() {
             @Override
             public void onPictureTaken(PictureResult result) {
-
                 // Access the raw data and process
                 byte[] data = result.getData();
                 new PhotoActivity.UploadTask().execute(data);

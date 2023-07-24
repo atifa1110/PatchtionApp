@@ -63,7 +63,7 @@ public class IntroActivity extends AppCompatActivity {
         // fill list screen
         final List<Screenitem> mList = new ArrayList<>();
         mList.add(new Screenitem("Upload Photo","Dapat mengupload photo sebelum melakukan pengklasifikasian pada tahap awal",R.drawable.img1));
-        mList.add(new Screenitem("Get Information","Dapat mendapatkan klasifikasi data daripada daun yang sudah di upload sebleumnya",R.drawable.img2));
+        mList.add(new Screenitem("Get Information","Dapat mendapatkan klasifikasi data daripada daun yang sudah di upload sebeleumnya",R.drawable.img2));
         mList.add(new Screenitem("Clear History","Dapat menghapus keseluruhan data",R.drawable.img3));
 
         // setup viewpager
