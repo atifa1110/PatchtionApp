@@ -1,14 +1,14 @@
-# Patchtion App
+# PatchtionApp 🎨
+**A patchouli classification application utilizing the extreme learning machine algorithm**
 
-### Overview :
-Patchtion App adalah Aplikasi klasifikasi nilam menggunakan algoritma extreme learning machine yang disimpan dalam API dan memproses foto yang sudah ada
+## 🌟 Overview
+PatchtionApp is a powerful application designed for the classification of patchouli using an extreme learning machine algorithm. The app processes existing photos of patchouli and stores classification data in an API, providing users with accurate and efficient identification of various patchouli types.
 
-### Features :
-1. Mengupload foto yang sudah ada
-2. Menyimpan foto history 
-3. Menghapus foto history 
-4. Menampilkan detail klasifikasi nilam
-5. Dark Mode
+## ✨ Key Features
+- **Patchouli Classification**: Leverages advanced machine learning algorithms to classify patchouli based on uploaded photos.
+- **API Integration**: Efficiently stores and retrieves classification data using a robust API.
+- **User-Friendly Interface**: Intuitive UI for easy photo uploads and classification results viewing.
+- **Photo Processing**: Automatically analyzes and processes existing patchouli images for classification.
 
 ### Screenshots : 
 
@@ -27,10 +27,10 @@ Patchtion App adalah Aplikasi klasifikasi nilam menggunakan algoritma extreme le
    
 </table><br><br>
 
-### Tools and Tech stack used : 
-1. Java
-2. XML
-3. Room database 
-6. OkHttpClient 
-7. JSON
-8. Shared Preference
+## 🔧 Tools and Tech Stack Used
+- **Java**: Primary programming language for Android development.
+- **XML**: For layout design and user interface components.
+- **Room Database**: Local database for storing patchouli classification data.
+- **OkHttpClient**: For handling HTTP requests and responses.
+- **JSON**: For data interchange and storage format.
+- **Shared Preferences**: For storing user preferences and settings.
