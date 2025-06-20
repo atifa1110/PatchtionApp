@@ -2,7 +2,7 @@
 **A patchouli classification application utilizing the extreme learning machine algorithm**
 
 ## 🌟 Overview
-PatchtionApp is a powerful application designed for the classification of patchouli using an extreme learning machine algorithm. The app processes existing photos of patchouli and stores classification data in an API, providing users with accurate and efficient identification of various patchouli types.
+PatchtionApp is A mobile application built to classify types of patchouli leaves using an Extreme Learning Machine (ELM) algorithm. Users can upload or take photos of patchouli leaves, and the app will identify the type based on trained data. The classification results are stored and retrieved through a connected API, allowing for fast, accurate identification and tracking of leaf types.
 
 ## ✨ Key Features
 - **Patchouli Classification**: Leverages advanced machine learning algorithms to classify patchouli based on uploaded photos.
